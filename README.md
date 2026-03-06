@@ -29,8 +29,8 @@ prog2-eco-2026-projetos/
 │   └── ...
 │
 ├── exercicios/
-│   ├── aula-01-revisao-oo/
-│   │   ├── enunciado.md     ← disponibilizado pela professora
+│   ├── 9-revisao-oo/
+│   │   ├── enunciado.md     ← disponibilizado pela professor
 │   │   └── entregas/
 │   │       ├── nome-Estudante1/
 │   │       └── nome-Estudante2/
@@ -64,7 +64,7 @@ Leia o arquivo [CONTRIBUTING.md](./CONTRIBUTING.md) para entender como:
 | 04 | — | — | Em andamento |
 | 05 | — | — | Em andamento |
 
-> A professora irá preencher esta tabela com os nomes e temas ao longo da primeira semana.
+> Será preenchido em breve.
 
 ---
 
