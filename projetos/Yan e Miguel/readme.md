@@ -46,3 +46,4 @@ Git
 Utilizado para controle de versão, permitindo o acompanhamento das alterações no código e facilitando o trabalho em equipe.
 GitHub
 Plataforma utilizada para hospedagem do repositório do projeto, possibilitando colaboração entre os integrantes e gerenciamento do código.
+# Imagem
